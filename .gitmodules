@@ -1,0 +1,3 @@
+[submodule "TextEditor_Module"]
+	path = TextEditor_Module
+	url = https://github.com/sofia-goloshapova/TextEditor_Module.git
